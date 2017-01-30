@@ -1,33 +1,31 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Greg Little GL (Captain) & Andrei Hristea AH (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version 0.1*
 
-Release Date: Jul 26, 2027
-
+Release Date: Jan 26, 2017
 ## New Components
 
--   controllers
-
-    -   serbian (AB)
-    
+- changelog (GL)
+- application folder (AH)
+- system folder (AH)
+- completed ci-basic01 (AH)
+- completed ci-basic02 (GL)
 ## Updated Components
 
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
-
--   views
-
-    -   slovenian (AB)
-    -   swedish
-
-
+- changelog information (GL)
+- changelog (AH)
+- changelog (GL)
+- template.php view (GL)
+- about.php view (GL)
+- gallery.php view (GL)
+- welcome.php view (GL)
+- MY_Controller.php (GL)
+- About.php controller (GL)
+- Gallery.php controller (GL)
+- Welcome.php controller (GL)
+- Changelog (AH)
+- Finished part 3 (AH)
